@@ -16,6 +16,7 @@ on:
           - https://github.com/Vijeth-test/arrow.git
           - https://github.com/lriggs/arrow.git
           - https://github.com/DenisTarasyuk/arrow.git
+          - https://github.com/stevelorddremio/arrow.git
 
 env:
   CROSSBOW_GITHUB_TOKEN: ${{ secrets.CROSSBOW_GITHUB_TOKEN }}
